@@ -43,7 +43,7 @@ Go to shipments_rest_api/shipments/settings.py and change the PostgreSQL setting
   }
 ```
 
-Make and run all migrations
+Create a new database called 'shipments' and then make and run all migrations
 
 ```bash
   python manage.py makemigrations
