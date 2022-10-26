@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/haraGADygyl/python-django-rest-shipments.git
+  git clone https://github.com/haraGADygyl/shipments-api.git
 ```
 
 Create and activate a new virtual environment
