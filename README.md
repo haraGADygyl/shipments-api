@@ -16,7 +16,6 @@ Clone the project
 Create and activate a new virtual environment
 
 ```bash
-  cd shipments_api
   python -m venv venv
   venv\Scripts\activate
 ```
@@ -42,7 +41,7 @@ Go to shipments_api/settings.py and change the PostgreSQL settings
   }
 ```
 
-Make and run all migrations
+Create a new database called 'shipments', then make and run all migrations
 
 ```bash
   python manage.py makemigrations
@@ -58,7 +57,6 @@ Start the backend server
 Go to the frontend directory and start the frontend server
 
 ```bash
-  cd..
   cd shipments_FE
 ```
 
