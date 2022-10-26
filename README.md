@@ -16,7 +16,7 @@ Clone the project
 Create and activate a new virtual environment
 
 ```bash
-  cd python-django-rest-shipments
+  cd shipments-api
   python -m venv venv
   venv\Scripts\activate
 ```
